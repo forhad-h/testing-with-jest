@@ -1,0 +1,29 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "Experiment testing concept with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forhad-h/testing-with-jest.git"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "jest"
+  ],
+  "author": "Forhad Hosain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forhad-h/testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/forhad-h/testing-with-jest#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
